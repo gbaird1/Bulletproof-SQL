@@ -31,8 +31,6 @@
  * SOFTWARE.
  */
 
-// Your existing SQLQuery class code below...
-
 class SQLQuery {
     private mysqli $link;
     private array $errors = [];
